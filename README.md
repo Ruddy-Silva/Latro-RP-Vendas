@@ -4,82 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latro-RP - Sua Loja de Vendas</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 1rem;
-            text-align: center;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #444;
-            padding: 0.5rem;
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 1rem;
-            padding: 0.5rem;
-        }
-        nav a:hover {
-            background-color: #555;
-            border-radius: 5px;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 2rem auto;
-            padding: 1rem;
-        }
-        .product {
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 1rem;
-            text-align: center;
-            margin-bottom: 2rem;
-            background-color: #fff;
-        }
-        .product img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-        }
-        .product h3 {
-            margin: 1rem 0;
-        }
-        .product p {
-            color: #666;
-        }
-        .product button {
-            background-color: #333;
-            color: #fff;
-            border: none;
-            padding: 0.5rem 1rem;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-        .product button:hover {
-            background-color: #555;
-        }
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1rem;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
 </head>
 <body>
     <header>
@@ -87,27 +11,39 @@
         <p>Os melhores produtos para você!</p>
     </header>
     <nav>
-        <a href="#home">Home</a>
-        <a href="#produtos">Produtos</a>
-        <a href="#contato">Contato</a>
+        <a href="#produtos">VIPS e MOEDAS-VIPS</a>
+        <a href="#contato">+55 21 96695-4830</a>
+        <a href="#contato">+55 32 9841-0290</a>
     </nav>
     <div class="container" id="produtos">
         <div class="product">
-            <img src="https://via.placeholder.com/300" alt="Produto 1">
-            <h3>Produto 1</h3>
-            <p>Descrição do produto 1.</p>
+            <h3>VIP-BRONZE</h3>
+            <p>5 REAIS - 10 dias.</p>
             <button>Comprar</button>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/300" alt="Produto 2">
-            <h3>Produto 2</h3>
-            <p>Descrição do produto 2.</p>
+            <h3>VIP-PRATA</h3>
+            <p>10 REAIS - 15 dias.</p>
             <button>Comprar</button>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/300" alt="Produto 3">
-            <h3>Produto 3</h3>
-            <p>Descrição do produto 3.</p>
+            <h3>VIP-OURO</h3>
+            <p>15 REAIS - 15 dias.</p>
+            <button>Comprar</button>
+        </div>
+         <div class="product">
+            <h3>VIP-PLATINA</h3>
+            <p>20 REAIS - 20 dias.</p>
+            <button>Comprar</button>
+        </div>
+         <div class="product">
+            <h3>VIP-DIAMANTE</h3>
+            <p>30 REAIS - 30 dias.</p>
+            <button>Comprar</button>
+        </div>
+        <div class="product">
+            <h3>MOEDAS-VIPS</h3>
+            <p>1 REAl = 1000 MOEDAS-VIPS.</p>
             <button>Comprar</button>
         </div>
     </div>
