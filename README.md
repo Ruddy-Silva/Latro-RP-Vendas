@@ -12,8 +12,10 @@ SERVE DO SAMP
     </header>
     <nav>
         <a href="#produtos">VIPS e MOEDAS-VIPS</a>
-        <a href="#contato">+55 21 96695-4830</a>
-        <a href="#contato">+55 32 9841-0290</a>
+        <a class="whatsapp-link" href="https://wa.me/553298410290" target="_blank" title="Fale conosco pelo WhatsApp">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
+</a>
+</a>
     </nav>
     <div class="container" id="produtos">
         <div class="product">
