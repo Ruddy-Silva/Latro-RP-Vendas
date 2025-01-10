@@ -50,7 +50,7 @@ SERVE DO SAMP
         </div>
         <div class="product">
             <h3>COINS</h3>
-            <p>1 REAL = 1000 COINS.</p>
+            <p>1 REAL = 1 COIN.</p>
         </div>
     </div>
     <footer>
