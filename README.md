@@ -26,7 +26,6 @@ SERVE DO SAMP
 <a class="whatsapp-link" href="https://wa.me/557199479706" target="_blank" title="Fale com Ycaro pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
-</a>
     </nav>
     <div class="container" id="produtos">
         <div class="product">
