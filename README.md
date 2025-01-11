@@ -59,9 +59,9 @@ SERVE DO SAMP
         </div>
         <div class="product">
             <h3>VEICULO-DE-INV.</h3>
-            <p>VALOR APENAS COM ADMS.</p>
+            <p>VALOR APENAS COM ADM Ruddy.</p>
             <p>Veja o Id do veiculo que deseja e manda para um ADM.</p>
-            <p>Para mais informações sobre os IDs de veículos, <a href="https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction" target="_blank">clique aqui</a>.</p>
+            <p>Para mais informações sobre os IDs de veículos, <a href="https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction" target="_blank">Id dos veiculos</a>.</p>
     </div>
     <footer>
         <p>&copy; 2025 Latro-RP. Todos os direitos reservados.</p>
