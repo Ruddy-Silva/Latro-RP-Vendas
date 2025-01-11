@@ -1,5 +1,7 @@
 # Latro-RP-Vendas
 Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_blank">LATRO ROLEPLAY</a>
+<p>Nosso IP é:191.96.224.79:7917</p>
+<p>Jogue pelo Moblie/Pc</p>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
