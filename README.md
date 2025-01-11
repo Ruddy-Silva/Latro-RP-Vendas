@@ -14,18 +14,23 @@ SERVE DO SAMP
 <a class="whatsapp-link" href="https://wa.me/553298410290" target="_blank" title="Fale com Ruddy pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
+<p>Ruddy</p>
 <a class="whatsapp-link" href="https://wa.me/5521966954830" target="_blank" title="Fale com Latro pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
+<p>Latro</p>
 <a class="whatsapp-link" href="https://wa.me/557591248151" target="_blank" title="Fale com Kauan pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
+<p>Kauan</p>
 <a class="whatsapp-link" href="https://wa.me/5521998048445" target="_blank" title="Fale com Nicolas pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
+<p>Nicolas</p>
 <a class="whatsapp-link" href="https://wa.me/557199479706" target="_blank" title="Fale com Ycaro pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
+<p>Ycaro</p>
     </nav>
     <div class="container" id="produtos">
         <div class="product">
@@ -55,6 +60,7 @@ SERVE DO SAMP
         <div class="product">
             <h3>VEICULO-DE-INV.</h3>
             <p>VALOR APENAS COM ADMS.</p>
+            <p>Veja o Id do veiculo que deseja e manda para um ADM.</p>
             <p>Para mais informações sobre os IDs de veículos, <a href="https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction" target="_blank">clique aqui</a>.</p>
     </div>
     <footer>
