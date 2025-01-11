@@ -1,7 +1,7 @@
 # Latro-RP-Vendas
-Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_blank">LATRO ROLEPLAY</a>
-<p>Nosso IP é:191.96.224.79:7917</p>
-<p>Jogue pelo Moblie/Pc</p>
+*Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_blank">LATRO ROLEPLAY</a>
+<p>*Nosso IP é:191.96.224.79:7917</p>
+<p>*Jogue pelo Moblie/Pc</p>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@ Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_bla
 <body>
     <header>
         <h1>Bem-vindo à Latro-RP</h1>
-        <p>Os melhores produtos para você!</p>
+        <p>*Os melhores produtos para você!</p>
     </header>
     <nav>
 <a class="whatsapp-link" href="https://wa.me/553298410290" target="_blank" title="Fale com Ruddy pelo WhatsApp">
@@ -25,10 +25,6 @@ Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_bla
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
 <p>°Kauan</p>
-<a class="whatsapp-link" href="https://wa.me/5521998048445" target="_blank" title="Fale com Nicolas pelo WhatsApp">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
-</a>
-<p>°Nicolas</p>
 <a class="whatsapp-link" href="https://wa.me/557199479706" target="_blank" title="Fale com Ycaro pelo WhatsApp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 40px; height: 40px;">
 </a>
