@@ -1,5 +1,6 @@
 # Latro-RP-Vendas
-SERVE DO SAMP
+Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_blank">LATRO ROLEPLAY</a>.</p>
+    </div>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
