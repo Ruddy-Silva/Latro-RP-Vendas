@@ -1,6 +1,5 @@
 # Latro-RP-Vendas
-Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_blank">LATRO ROLEPLAY</a>.</p>
-    </div>
+Faça parte do nosso Discord  <a href="https://discord.gg/g7zVwQWc" target="_blank">LATRO ROLEPLAY</a>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
