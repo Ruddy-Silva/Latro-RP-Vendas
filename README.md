@@ -55,7 +55,7 @@ SERVE DO SAMP
         <div class="product">
             <h3>VEICULO-DE-INV.</h3>
             <p>VALOR APENAS COM ADMS.</p>
-            <p> LINK DO ID DOS VEICULOS https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction</p>
+            <p> LINK DO ID DOS VEICULOS.</p>
     </div>
     <footer>
         <p>&copy; 2025 Latro-RP. Todos os direitos reservados.</p>
