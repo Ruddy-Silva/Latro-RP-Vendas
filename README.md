@@ -52,6 +52,10 @@ SERVE DO SAMP
             <h3>COINS</h3>
             <p>1 REAL = 1 COIN.</p>
         </div>
+        <div class="product">
+            <h3>VEICULO-DE-INV.</h3>
+            <p>VALOR APENAS COM ADMS.</p>
+            <p> LINK DO ID DOS VEICULOS https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction</p>
     </div>
     <footer>
         <p>&copy; 2025 Latro-RP. Todos os direitos reservados.</p>
