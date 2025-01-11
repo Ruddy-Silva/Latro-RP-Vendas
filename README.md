@@ -35,33 +35,33 @@ SERVE DO SAMP
     <div class="container" id="produtos">
         <div class="product">
             <h3>VIP-BRONZE</h3>
-            <p>5 REAIS - 10 dias.</p>
+            <p>*5 REAIS - 10 dias.</p>
         </div>
         <div class="product">
             <h3>VIP-PRATA</h3>
-            <p>10 REAIS - 15 dias.</p>
+            <p>*10 REAIS - 15 dias.</p>
         </div>
         <div class="product">
             <h3>VIP-OURO</h3>
-            <p>15 REAIS - 15 dias.</p>
+            <p>*15 REAIS - 15 dias.</p>
         </div>
          <div class="product">
             <h3>VIP-PLATINA</h3>
-            <p>20 REAIS - 20 dias.</p>
+            <p>*20 REAIS - 20 dias.</p>
         </div>
          <div class="product">
             <h3>VIP-DIAMANTE</h3>
-            <p>30 REAIS - 30 dias.</p>
+            <p>*30 REAIS - 30 dias.</p>
         </div>
         <div class="product">
             <h3>COINS</h3>
-            <p>1 REAL = 1 COIN.</p>
+            <p>*1 REAL = 1 COIN.</p>
         </div>
         <div class="product">
             <h3>VEICULO-DE-INV.</h3>
-            <p>VALOR APENAS COM ADM Ruddy.</p>
-            <p>Veja o Id do veiculo que deseja e manda para um ADM.</p>
-            <p>Para mais informações sobre os IDs de veículos, <a href="https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction" target="_blank">Id dos veiculos</a>.</p>
+            <p>*VALOR APENAS COM ADM Ruddy.</p>
+            <p>*Veja o Id do veiculo que deseja e manda para um ADM.</p>
+            <p>*Para mais informações sobre os IDs de veículos, <a href="https://wiki.multitheftauto.com/wiki/Vehicle_IDs#Introduction" target="_blank">Id dos veiculos</a>.</p>
     </div>
     <footer>
         <p>&copy; 2025 Latro-RP. Todos os direitos reservados.</p>
